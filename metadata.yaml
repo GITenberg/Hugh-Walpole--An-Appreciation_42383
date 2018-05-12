@@ -1,0 +1,28 @@
+_repo: Hugh-Walpole--An-Appreciation_42383
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42383-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Hergesheimer, Joseph
+    birthdate: 1880
+    deathdate: 1954
+    gutenberg_agent_id: '2218'
+    url: http://www.gutenberg.org/2009/agents/2218
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
+description: ''
+gutenberg_issued: '2013-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42383'
+  lccn: '19015594'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Walpole, Hugh, 1884-1941'
+title: 'Hugh Walpole: An Appreciation'
+url: http://www.gutenberg.org/ebooks/42383
