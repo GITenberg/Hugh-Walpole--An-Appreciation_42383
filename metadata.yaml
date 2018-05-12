@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2218
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42383#Hugh-Walpole--An-Appreciation
 gutenberg_issued: '2013-03-20'
 gutenberg_type: Text
 identifiers:
